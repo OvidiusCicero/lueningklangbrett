@@ -1,1 +1,1 @@
-# lueningklangbrett
+# Das Horst-Lüning-Klangbrett
